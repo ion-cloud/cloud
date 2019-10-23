@@ -1,0 +1,26 @@
+{
+  "name": "@ion-cloud/cloud",
+  "version": "1.0.0",
+  "description": "JavaScript animation coordination and scene management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ion-cloud/cloud.git"
+  },
+  "keywords": [
+    "javascript",
+    "ion-cloud",
+    "game-dev",
+    "animation",
+    "scene"
+  ],
+  "author": "NathanielInman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ion-cloud/cloud/issues"
+  },
+  "homepage": "https://github.com/ion-cloud/cloud#readme"
+}
