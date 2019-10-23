@@ -1,6 +1,7 @@
 # cloud
 JavaScript animation coordination and scene management
 
+![Example](https://media.giphy.com/media/1mhjCBjncfr37OiNd1/giphy.gif)
 ## Setup
 Getting started with cloud is simple, merely `npm i @ion-cloud/cloud --save` and then import it into your application with `import {IonCloud} from '@ion-cloud/cloud';`.
 
